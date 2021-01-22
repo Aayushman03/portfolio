@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+}
+.one{
+    position: relative;
+    background-color: rgb(147, 212, 201);
+    min-height: 100vh;
+}
+
+.heading{
+    letter-spacing: 0.5rem;
+    word-spacing: 3.125rem;
+    font-size: 6rem;
+    position: relative; ;
+    top: 10rem;
+    width: 50%;
+    margin: 0px auto;
+    font-family: 'Pacifico', cursive;
+}
+#pa{
+    position:relative;
+    top: 10rem;
+    font-size: 2rem;
+    font-family: 'Prompt', sans-serif;
+    margin-top: 0.5rem;
+}
+#fc{
+    width: 250px;
+    position: absolute;
+    left: 1400px;
+    top: 100px;
+}
+#sc{
+    width: 280px;
+    position: absolute;
+    top: 370px;
+    left: 160px;
+}
+.sun{
+    width: 120px;
+    position: absolute;
+    top: 330px;
+    left: 200px
+
+}
+.tree{
+    width:400px;
+    position: relative;
+    top: 350px;
+}
+
+.profile img{
+    margin-top: 40px;
+    width: 300px;
+}
+.nono{
+    color: rgb(147, 212, 201);
+}
+.skill{
+    text-align: left;
+}
+
+.skill-row img{
+    width: 20%;
+    float: left;
+}
+.skill-row{
+    width: 50%;
+    margin: 0px auto;
+    text-align: left;
+    
+}
+#on{
+    padding-top: 100px;
+    margin-bottom: 200px;
+}
+#on img{
+    float: right;
+}
+.he{
+    padding-left: 220px;
+    padding-top: 80px;
+    
+}
+#ll p{
+    padding-left: 220px;
+    padding-top: 20px;
+}
+.hen{
+    padding-top: 60px;
+    margin-bottom: 20px;
+}
+.hen p{
+    padding-right: 220px;
+}
+hr{
+    height: 0px;
+    margin: 40px auto;
+    padding: 0;
+    width:8%;
+    border-top: 10px;
+    border-style: dotted;
+    border-color: rgb(58, 102, 95);
+}
+.foot{
+    background-color:rgb(87, 167, 152) ;
+}
+.bottom-container{
+    background-color:rgb(87, 167, 152) ;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
